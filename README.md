@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Aviral 👋
 
-<!--
-**avviiiral/avviiiral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Machine Learning Engineer with hands-on experience in:
+• Machine Learning
+• Deep Learning
+• Neural Networks
+• Data Analysis
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+Python | TensorFlow | Keras | NumPy | Pandas | Matplotlib | Scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- MNIST Digit Classification using Neural Network
+- Breast Cancer Classification using Neural Network
+- Bank Note Authentication using Random Forest
+- Employee Salary Prediction using Linear Regression
+
+### 🎯 Currently Learning
+Deep Learning | Model Optimization | Real-world ML Projects
+
+📫 Connect with me:
+LinkedIn: https://www.linkedin.com/in/avviiiral

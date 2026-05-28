@@ -7,16 +7,21 @@ Aspiring Machine Learning Engineer with hands-on experience in:
 • Data Analysis
 
 ### 🔧 Tech Stack
+
 Python | TensorFlow | Keras | NumPy | Pandas | Matplotlib | Scikit-learn
 
 ### 📌 Featured Projects
-- MNIST Digit Classification using Neural Network
-- Breast Cancer Classification using Neural Network
-- Bank Note Authentication using Random Forest
-- Employee Salary Prediction using Linear Regression
+
+* MNIST Digit Classification using Neural Network
+* Breast Cancer Classification using Neural Network
+* Bank Note Authentication using Random Forest
+* Employee Salary Prediction using Linear Regression
 
 ### 🎯 Currently Learning
+
 Deep Learning | Model Optimization | Real-world ML Projects
 
+🌐 Portfolio: https://aviral-goyal.netlify.app/
+
 📫 Connect with me:
-LinkedIn: https://www.linkedin.com/in/avviiiral
+LinkedIn: https://www.linkedin.com/in/avviiiral/

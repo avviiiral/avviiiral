@@ -17,7 +17,7 @@ Python | TensorFlow | Keras | NumPy | Pandas | Matplotlib | Scikit-learn
 * Bank Note Authentication using Random Forest
 * Employee Salary Prediction using Linear Regression
 
-### 🎯 Currently Learning
+### 🎯 Currently Working on
 
 Deep Learning | Model Optimization | Real-world ML Projects
 

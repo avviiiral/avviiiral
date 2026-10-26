@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Aviral Goyal — AI/ML Engineer, Python Developer, and Full-Stack Developer" width="100%" />
+<img src="./assets/profile-banner.svg" alt="Aviral Goyal — Data Analyst, AI/ML Engineer, and Power BI Developer" width="100%" />
 
 # Aviral Goyal
 
-### AI/ML Engineer · Python Developer · Full-Stack Developer · Data Analytics
+### Data Analyst · AI/ML Engineer · Power BI Developer
 
-I build practical AI-powered applications, machine learning solutions, data products, and full-stack web systems.
+I use Python, SQL, and Power BI to analyse operational data, automate reporting, and build practical data-driven solutions. My work also includes computer vision and AI-assisted production monitoring.
 
 <p>
   <a href="https://aviral-goyal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=flat-square&logo=vercel&logoColor=white" alt="Visit Aviral Goyal's portfolio website"></a>
@@ -20,14 +20,14 @@ I build practical AI-powered applications, machine learning solutions, data prod
 
 ## About Me
 
-I'm a developer working at the intersection of **artificial intelligence, machine learning, data analytics, and full-stack software engineering**. I use Python to build data-driven applications, train and evaluate machine learning models, automate analytical workflows, and develop AI-enabled tools. I also build web applications and APIs with Django REST Framework and Angular, and turn business data into interactive reports with Power BI.
+I'm a **Data Analyst and AI/ML Engineer** with hands-on experience in manufacturing analytics, operational reporting, dashboard development, and computer-vision-based production monitoring. I use Python, SQL, and Power BI to turn operational data into useful insights for decision-making.
 
-I care about useful software: clear data workflows, maintainable APIs, dependable calculations, and interfaces that make complex information easier to understand.
+My experience includes production KPI reporting, downtime analysis, reporting automation, and contributing to a 10-camera YOLOv8 monitoring initiative. I also build independent projects in machine learning, data analytics, and full-stack development.
 
-- **AI & Machine Learning:** supervised learning, neural networks, deep learning, predictive modelling, model evaluation, and computer vision.
-- **Data Analytics & BI:** data cleaning, exploratory data analysis, visualization, Power BI dashboards, and DAX-based reporting.
-- **Full-Stack Development:** Python backends, REST APIs, Angular applications, database integration, and application deployment.
-- **Applied AI:** LLM-powered applications, data-analysis agents, natural-language querying, and automated reporting.
+- **Data Analytics & BI:** Python, SQL, Power BI, DAX, KPI reporting, data cleaning, and visualization.
+- **Industrial AI & Computer Vision:** YOLOv8, OpenCV, object counting, and real-time production monitoring.
+- **Automation & Data Workflows:** Python scripts, Excel data processing, REST APIs, and reporting automation.
+- **Application Development:** Django REST Framework, Angular, TypeScript, and database-backed applications.
 
 ## Featured Projects
 
@@ -111,12 +111,13 @@ A browser-based conversational AI demo built with Streamlit and Google's Gemini 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## Current Interests
+## Current Focus
 
-- Building reliable AI agents and LLM-powered data-analysis workflows.
-- Applying machine learning and computer vision to practical problems.
-- Developing full-stack applications with Python APIs and modern web frontends.
-- Creating clear, decision-focused analytics and Power BI dashboards.
+- Manufacturing analytics, operational KPI reporting, and downtime analysis.
+- Python and SQL automation for repeatable data workflows.
+- Computer vision and AI-assisted production monitoring.
+- Building clear, decision-focused Power BI dashboards.
+- Developing practical machine learning and full-stack applications.
 
 ## GitHub Activity
 

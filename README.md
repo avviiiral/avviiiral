@@ -74,6 +74,16 @@ A browser-based conversational AI demo built with Streamlit and Google's Gemini 
 - [Breast Cancer Classification with Neural Network](https://github.com/avviiiral/Breast-Cancer-Classification-Neural-Network) — supervised classification workflow.
 - [Bank Note Authentication with Random Forest](https://github.com/avviiiral/Bank-Note-Authentication-using-Random-Forest) — classification using a traditional machine learning model.
 
+## Case Studies & Technical Notes
+
+Longer write-ups with architecture notes are published on the [portfolio site](https://aviral-goyal.netlify.app/):
+
+- [BGLIIN.AI — industrial computer vision and production monitoring](https://aviral-goyal.netlify.app/projects/bgliin-ai.html)
+- [Personal Wealth Monitoring System — Django and Angular case study](https://aviral-goyal.netlify.app/projects/personal-wealth-monitoring.html)
+- [AI Data Analyst Agent — Python and Streamlit case study](https://aviral-goyal.netlify.app/projects/ai-data-analyst-agent.html)
+- [Designing a multi-camera monitoring pipeline](https://aviral-goyal.netlify.app/articles/multi-camera-monitoring.html)
+- [Making portfolio calculations auditable](https://aviral-goyal.netlify.app/articles/auditable-portfolio-calculations.html)
+
 ## Technical Skills
 
 **Programming & Data**

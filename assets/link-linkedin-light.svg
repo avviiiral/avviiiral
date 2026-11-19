@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="52" viewBox="0 0 300 52" role="img" aria-label="LinkedIn — linkedin.com/in/avviiiral">
+  <title>LinkedIn — linkedin.com/in/avviiiral</title>
+  <rect x="0.5" y="0.5" width="299" height="51" rx="10" fill="#FBFBFA" stroke="#E6E4E0"/>
+  <path d="M26 22h4v12h-4zM28 16.5a2.2 2.2 0 1 1 0 4.4 2.2 2.2 0 0 1 0-4.4zM33 22h3.8v1.7c.6-1 1.9-2 3.9-2 4 0 4.8 2.6 4.8 6V34h-4v-5.6c0-1.4 0-3.1-1.9-3.1s-2.2 1.5-2.2 3V34h-4z" fill="#D97706"/>
+  <text x="56" y="23" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#111113">LinkedIn</text>
+  <text x="56" y="39" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#8A8780">linkedin.com/in/avviiiral</text>
+  <text x="276" y="31" text-anchor="end" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#D97706">↗</text>
+</svg>

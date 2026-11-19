@@ -6,9 +6,13 @@
 
 <br>
 
-I work where operational data meets the factory floor. Most days that means Python and SQL pipelines that replace manual reporting, Power BI dashboards built for decisions rather than decoration, and computer-vision systems that count, monitor and flag what happens on a production line.
+I'm **Aviral Goyal**, a data analyst and AI/ML engineer who works where operational data meets the factory floor. Most days that means Python and SQL pipelines that replace manual reporting, Power BI dashboards built for decisions rather than decoration, and computer-vision systems that count, monitor and flag what happens on a production line.
 
-[Portfolio](https://aviral-goyal.netlify.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/avviiiral/) &nbsp;·&nbsp; [Case studies](#writing)
+<p>
+<a href="https://aviral-goyal.netlify.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-portfolio-dark.svg"><img src="./assets/link-portfolio-light.svg" height="52" alt="Aviral Goyal portfolio and case studies — aviral-goyal.netlify.app"></picture></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/avviiiral/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-linkedin-dark.svg"><img src="./assets/link-linkedin-light.svg" height="52" alt="Aviral Goyal on LinkedIn — linkedin.com/in/avviiiral"></picture></a>
+</p>
 
 <br>
 
@@ -17,6 +21,15 @@ I work where operational data meets the factory floor. Most days that means Pyth
 - **Manufacturing analytics.** Production KPI reporting, downtime analysis and reporting automation.
 - **Industrial computer vision.** Contributing to a 10-camera YOLOv8 production-monitoring initiative.
 - **InsightForge AI.** An agent-based data analyst that profiles, charts and reports on any dataset.
+
+<br>
+
+## How I work
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pipeline-dark.gif">
+  <img src="./assets/pipeline-light.gif" width="100%" alt="How Aviral Goyal works, from raw data to decision: shop-floor machines and cameras, a Python and SQL data pipeline, YOLOv8 and machine-learning models, a Power BI and DAX dashboard, and finally a decision that reduces downtime.">
+</picture>
 
 <br>
 
@@ -79,6 +92,9 @@ Longer write-ups with architecture notes, on the [portfolio](https://aviral-goya
 
 <br>
 
----
+## Get in touch
 
-<sub>Open to conversations about data analytics, BI and applied computer vision in manufacturing — reach me on [LinkedIn](https://www.linkedin.com/in/avviiiral/).</sub>
+Open to conversations about data analytics, Power BI and applied computer vision in manufacturing.
+
+- **LinkedIn** — [linkedin.com/in/avviiiral](https://www.linkedin.com/in/avviiiral/)
+- **Portfolio & case studies** — [aviral-goyal.netlify.app](https://aviral-goyal.netlify.app/)

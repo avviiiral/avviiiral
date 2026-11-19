@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="52" viewBox="0 0 300 52" role="img" aria-label="Portfolio &amp; case studies — aviral-goyal.netlify.app">
+  <title>Portfolio &amp; case studies — aviral-goyal.netlify.app</title>
+  <rect x="0.5" y="0.5" width="299" height="51" rx="10" fill="#FBFBFA" stroke="#E6E4E0"/>
+  <circle cx="34" cy="26" r="9.5" fill="none" stroke="#D97706" stroke-width="1.6"/><path d="M24.5 26h19M34 16.5c3 3 3 16 0 19M34 16.5c-3 3-3 16 0 19" fill="none" stroke="#D97706" stroke-width="1.4"/>
+  <text x="56" y="23" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#111113">Portfolio &amp; case studies</text>
+  <text x="56" y="39" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#8A8780">aviral-goyal.netlify.app</text>
+  <text x="276" y="31" text-anchor="end" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#D97706">↗</text>
+</svg>

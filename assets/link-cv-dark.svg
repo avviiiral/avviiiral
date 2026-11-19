@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="52" viewBox="0 0 300 52" role="img" aria-label="Download CV — PDF résumé of Aviral Goyal">
+  <title>Download CV — PDF résumé of Aviral Goyal</title>
+  <rect x="0.5" y="0.5" width="299" height="51" rx="10" fill="#0B0C0E" stroke="#1E2125"/>
+  <g transform="translate(26 15)" fill="none" stroke="#F5A524" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M3 1h8l5 5v15a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1z"/>
+    <path d="M11 1v5h5"/>
+  </g>
+  <text x="56" y="23" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#F4F4F5">Download CV</text>
+  <text x="56" y="39" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#6B7079">PDF résumé · 2 pages</text>
+  <text x="276" y="31" text-anchor="end" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#F5A524">↓</text>
+</svg>

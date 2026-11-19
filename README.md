@@ -14,6 +14,8 @@ I'm **Aviral Goyal**, a data analyst and AI/ML engineer who works where operatio
 <a href="https://aviral-goyal.netlify.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-portfolio-dark.svg"><img src="./assets/link-portfolio-light.svg" height="52" alt="Aviral Goyal portfolio and case studies — aviral-goyal.netlify.app"></picture></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/avviiiral/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-linkedin-dark.svg"><img src="./assets/link-linkedin-light.svg" height="52" alt="Aviral Goyal on LinkedIn — linkedin.com/in/avviiiral"></picture></a>
+&nbsp;
+<a href="https://github.com/avviiiral/portfolio/blob/main/Aviral_Goyal_Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-cv-dark.svg"><img src="./assets/link-cv-light.svg" height="52" alt="Download Aviral Goyal's CV as a PDF résumé"></picture></a>
 </p>
 
 <br>
@@ -92,6 +94,16 @@ I'm **Aviral Goyal**, a data analyst and AI/ML engineer who works where operatio
 
 <br>
 
+## Experience
+
+**Management Trainee — Bagla Industries** · Aug 2026 – Present
+Analyse production and operational data with Python, SQL and Power BI to support leadership decisions, and contribute to a 10-camera production-line monitoring network that improves operational visibility.
+
+**Management Trainee — BG Electricals & Electronics India** · Dec 2025 – Aug 2026
+Built Power BI dashboards for production monitoring, downtime and KPI tracking, automated manufacturing reporting with Python and SQL to cut manual effort, and helped develop AI-powered, multi-camera monitoring for the production line.
+
+<br>
+
 ## Writing
 
 Longer write-ups with architecture notes, on the [portfolio](https://aviral-goyal.netlify.app/).
@@ -115,6 +127,14 @@ Longer write-ups with architecture notes, on the [portfolio](https://aviral-goya
 | **ML & vision** | scikit-learn, TensorFlow, Keras, PyTorch, YOLOv8, OpenCV |
 | **Applications** | Django, Django REST Framework, Angular, TypeScript, REST APIs, Streamlit |
 | **Storage & tooling** | PostgreSQL, SQLite, Git, Docker |
+
+<br>
+
+## Education & certifications
+
+- **B.E. Computer Science** — Eklavya University, 2020–2024
+- **IBM Python for Data Science**
+- **SQL (Intermediate)**
 
 <br>
 

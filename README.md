@@ -28,6 +28,15 @@ I'm **Aviral Goyal**, a data analyst and AI/ML engineer who works where operatio
 
 ## What I can help with
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/services-dark.svg">
+  <img src="./assets/services-light.svg" width="100%" alt="Services offered by Aviral Goyal: Power BI dashboards (data model, DAX, row-level security); reporting automation (Python, Pandas, SQL); computer vision (YOLOv8, OpenCV, RTSP); data analysis and forecasting (scikit-learn, TensorFlow); internal tools and MVPs (Django, Angular, Docker); and AI and LLM assistants (LLM agents, Streamlit).">
+</picture>
+
+<details>
+<summary><b>What each one includes</b></summary>
+<br>
+
 | If you need… | I deliver | Built with |
 |:--|:--|:--|
 | **Dashboards your team actually uses** | Power BI reports with a clean data model, tested DAX measures, row-level security and a short handover guide | Power BI, DAX, SQL, Excel |
@@ -36,6 +45,8 @@ I'm **Aviral Goyal**, a data analyst and AI/ML engineer who works where operatio
 | **Answers from messy data** | Data cleaning, exploratory analysis, KPI definitions and forecasting with a written summary | Python, scikit-learn, TensorFlow |
 | **An internal tool or MVP** | Django REST API with an Angular or Streamlit front end, Dockerised and ready to deploy | Django, DRF, Angular, Docker |
 | **AI on top of your data** | LLM assistants and agents that query, profile and report on business datasets | Python, LLM APIs, Streamlit |
+
+</details>
 
 <br>
 
@@ -133,6 +144,58 @@ Longer write-ups with architecture notes, on the [portfolio](https://aviral-goya
 </td>
 </tr>
 </table>
+
+<br>
+
+## Working with me — FAQ
+
+<details>
+<summary><b>How do you price freelance work?</b></summary>
+<br>
+
+Two options depending on the job:
+
+- **Fixed price** for a clear deliverable — a dashboard, an automation script, a proof of concept. You get a written scope and a single number up front.
+- **Hourly or monthly retainer** for ongoing analytics, BI support or model iteration where the scope keeps evolving.
+
+Every project starts with a free intro call so we can size it before any money is discussed.
+
+</details>
+
+<details>
+<summary><b>What does a typical project look like?</b></summary>
+<br>
+
+1. **Intro call** — you describe the problem, the data and the deadline.
+2. **Written scope** — deliverables, milestones, price and timeline, agreed before work starts.
+3. **Build with demos** — I share progress at each milestone, not just at the end.
+4. **Handover** — source code, documentation and a walkthrough. The work is yours.
+
+</details>
+
+<details>
+<summary><b>How do you handle my data and confidentiality?</b></summary>
+<br>
+
+Happy to sign an NDA before you share anything. I work on a copy of your data, never commit secrets or credentials to a repository, and delete the working data once the project is handed over if you ask me to.
+
+</details>
+
+<details>
+<summary><b>What do you need from me to start?</b></summary>
+<br>
+
+A sample of the data (even a few rows or a screenshot), a sentence on the decision the output should support, and your deadline. That is usually enough to scope the first version.
+
+</details>
+
+<details>
+<summary><b>Do you take full-time roles too?</b></summary>
+<br>
+
+Yes — I'm open to full-time Data Analyst, Power BI Developer and AI/ML Engineer roles, on-site, hybrid or remote. Reach out on LinkedIn and we can talk.
+
+</details>
 
 <br>
 

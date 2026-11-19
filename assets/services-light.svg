@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="st sd">
+  <title id="st">What I can help with — services</title>
+  <desc id="sd">Six services offered by Aviral Goyal: Power BI dashboards, reporting automation, computer vision, data analysis and forecasting, internal tools and MVPs, and AI and LLM assistants.</desc>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="14" fill="#FBFBFA" stroke="#E6E4E0"/>
+  <text x="56" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.5" fill="#8A8780">WHAT I CAN HELP WITH</text>
+  <text x="1144" y="52" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="0.5" fill="#8A8780">FULL-TIME · FREELANCE · CONTRACT</text>
+  <line x1="56" y1="66.5" x2="1144" y2="66.5" stroke="#E6E4E0"/>
+  <g transform="translate(56 92)">
+    <rect x="0" y="0" width="376" height="76" rx="10" fill="#FFFFFF" stroke="#E6E4E0"/>
+    <rect x="0" y="0" width="3" height="76" rx="1.5" fill="#D97706"/>
+    <text x="20" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.2" fill="#D97706">01</text>
+    <text x="44" y="28" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#111113">Power BI Dashboards</text>
+    <text x="20" y="54" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#4A4A52">Data model · DAX · RLS</text>
+  </g>
+  <g transform="translate(448 92)">
+    <rect x="0" y="0" width="376" height="76" rx="10" fill="#FFFFFF" stroke="#E6E4E0"/>
+    <rect x="0" y="0" width="3" height="76" rx="1.5" fill="#D97706"/>
+    <text x="20" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.2" fill="#D97706">02</text>
+    <text x="44" y="28" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#111113">Reporting Automation</text>
+    <text x="20" y="54" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#4A4A52">Python · Pandas · SQL</text>
+  </g>
+  <g transform="translate(840 92)">
+    <rect x="0" y="0" width="376" height="76" rx="10" fill="#FFFFFF" stroke="#E6E4E0"/>
+    <rect x="0" y="0" width="3" height="76" rx="1.5" fill="#D97706"/>
+    <text x="20" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.2" fill="#D97706">03</text>
+    <text x="44" y="28" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#111113">Computer Vision</text>
+    <text x="20" y="54" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#4A4A52">YOLOv8 · OpenCV · RTSP</text>
+  </g>
+  <g transform="translate(56 184)">
+    <rect x="0" y="0" width="376" height="76" rx="10" fill="#FFFFFF" stroke="#E6E4E0"/>
+    <rect x="0" y="0" width="3" height="76" rx="1.5" fill="#D97706"/>
+    <text x="20" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.2" fill="#D97706">04</text>
+    <text x="44" y="28" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#111113">Data Analysis &amp; Forecasting</text>
+    <text x="20" y="54" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#4A4A52">scikit-learn · TensorFlow</text>
+  </g>
+  <g transform="translate(448 184)">
+    <rect x="0" y="0" width="376" height="76" rx="10" fill="#FFFFFF" stroke="#E6E4E0"/>
+    <rect x="0" y="0" width="3" height="76" rx="1.5" fill="#D97706"/>
+    <text x="20" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.2" fill="#D97706">05</text>
+    <text x="44" y="28" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#111113">Internal Tools &amp; MVPs</text>
+    <text x="20" y="54" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#4A4A52">Django · Angular · Docker</text>
+  </g>
+  <g transform="translate(840 184)">
+    <rect x="0" y="0" width="376" height="76" rx="10" fill="#FFFFFF" stroke="#E6E4E0"/>
+    <rect x="0" y="0" width="3" height="76" rx="1.5" fill="#D97706"/>
+    <text x="20" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.2" fill="#D97706">06</text>
+    <text x="44" y="28" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#111113">AI &amp; LLM Assistants</text>
+    <text x="20" y="54" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#4A4A52">LLM agents · Streamlit</text>
+  </g>
+</svg>

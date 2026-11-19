@@ -1,43 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="t d">
   <title id="t">Aviral Goyal — Data Analyst, AI/ML Engineer and Power BI Developer</title>
-  <desc id="d">Profile header for Aviral Goyal showing focus areas: analytics with Python and SQL, business intelligence with Power BI, computer vision with YOLOv8, and applications with Django and Angular. A small production chart highlights a downtime dip inside a detection box.</desc>
+  <desc id="d">Profile header for Aviral Goyal. Focus areas: analytics with Python and SQL, business intelligence with Power BI, computer vision with YOLOv8, and applications with Django and Angular. A small production chart highlights a downtime dip inside a detection box.</desc>
   <rect x="0.5" y="0.5" width="1199" height="369" rx="14" fill="#FBFBFA" stroke="#E6E4E0"/>
   <text x="56" y="66" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.5" fill="#8A8780">AVIRAL GOYAL / PROFILE</text>
   <text x="1144" y="66" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="0.5" fill="#8A8780">github.com/avviiiral</text>
   <text x="53" y="172" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="74" font-weight="600" letter-spacing="-2.8" fill="#111113">Aviral Goyal</text>
-  <text x="56" y="216" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" letter-spacing="-0.2" fill="#3F3F46">Data Analyst <tspan fill="#8A8780">/</tspan> AI/ML Engineer <tspan fill="#8A8780">/</tspan> Power BI Developer</text>
+  <text x="56" y="216" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" letter-spacing="-0.2" fill="#4A4A52">Data Analyst <tspan fill="#8A8780">/</tspan> AI/ML Engineer <tspan fill="#8A8780">/</tspan> Power BI Developer</text>
+  <line x1="800" y1="170" x2="1144" y2="170" stroke="#8A8780" stroke-opacity=".5" stroke-dasharray="2 4"/>
+  <rect x="804" y="184" width="14" height="52" rx="2" fill="#DDDAD4"/>
+  <rect x="828" y="176" width="14" height="60" rx="2" fill="#DDDAD4"/>
+  <rect x="852" y="178" width="14" height="58" rx="2" fill="#DDDAD4"/>
+  <rect x="876" y="170" width="14" height="66" rx="2" fill="#DDDAD4"/>
+  <rect x="900" y="173" width="14" height="63" rx="2" fill="#DDDAD4"/>
+  <rect x="924" y="166" width="14" height="70" rx="2" fill="#DDDAD4"/>
+  <rect x="948" y="206" width="14" height="30" rx="2" fill="#D97706"/>
+  <rect x="972" y="168" width="14" height="68" rx="2" fill="#DDDAD4"/>
+  <rect x="996" y="164" width="14" height="72" rx="2" fill="#DDDAD4"/>
+  <rect x="1020" y="167" width="14" height="69" rx="2" fill="#DDDAD4"/>
+  <rect x="1044" y="161" width="14" height="75" rx="2" fill="#DDDAD4"/>
+  <rect x="1068" y="165" width="14" height="71" rx="2" fill="#DDDAD4"/>
+  <rect x="1092" y="158" width="14" height="78" rx="2" fill="#DDDAD4"/>
+  <rect x="1116" y="162" width="14" height="74" rx="2" fill="#DDDAD4"/>
+  <line x1="800" y1="236.5" x2="1144" y2="236.5" stroke="#C9C6C0"/>
+  <line x1="800" y1="126" x2="800" y2="236" stroke="#D97706" stroke-opacity=".35"><animateTransform attributeName="transform" type="translate" values="0 0;344 0;344 0" keyTimes="0;.55;1" dur="7s" repeatCount="indefinite"/></line>
   <g>
-    <line x1="800" y1="170" x2="1144" y2="170" stroke="#8A8780" stroke-opacity=".5" stroke-dasharray="2 4"/>
-    <rect x="804" y="184" width="14" height="52" rx="2" fill="#DDDAD4"/>
-    <rect x="828" y="176" width="14" height="60" rx="2" fill="#DDDAD4"/>
-    <rect x="852" y="178" width="14" height="58" rx="2" fill="#DDDAD4"/>
-    <rect x="876" y="170" width="14" height="66" rx="2" fill="#DDDAD4"/>
-    <rect x="900" y="173" width="14" height="63" rx="2" fill="#DDDAD4"/>
-    <rect x="924" y="166" width="14" height="70" rx="2" fill="#DDDAD4"/>
-    <rect x="948" y="206" width="14" height="30" rx="2" fill="#D97706"/>
-    <rect x="972" y="168" width="14" height="68" rx="2" fill="#DDDAD4"/>
-    <rect x="996" y="164" width="14" height="72" rx="2" fill="#DDDAD4"/>
-    <rect x="1020" y="167" width="14" height="69" rx="2" fill="#DDDAD4"/>
-    <rect x="1044" y="161" width="14" height="75" rx="2" fill="#DDDAD4"/>
-    <rect x="1068" y="165" width="14" height="71" rx="2" fill="#DDDAD4"/>
-    <rect x="1092" y="158" width="14" height="78" rx="2" fill="#DDDAD4"/>
-    <rect x="1116" y="162" width="14" height="74" rx="2" fill="#DDDAD4"/>
-    <line x1="800" y1="236.5" x2="1144" y2="236.5" stroke="#C9C6C0"/>
-    <g fill="none" stroke="#D97706" stroke-width="1.5">
-      <path d="M938 168v-8h8M962 160h8v8M970 230v8h-8M946 238h-8v-8"/>
-    </g>
+    <path d="M938 168v-8h8M962 160h8v8M970 230v8h-8M946 238h-8v-8" fill="none" stroke="#D97706" stroke-width="1.5"/>
     <rect x="938" y="136" width="70" height="18" rx="3" fill="#D97706"/>
     <text x="945" y="149" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#FFFFFF">downtime</text>
-    <text x="804" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8A8780">06:00</text>
-    <text x="1140" y="256" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8A8780">20:00</text>
   </g>
+  <text x="804" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8A8780">06:00</text>
+  <text x="1140" y="256" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8A8780">20:00</text>
   <line x1="56" y1="278.5" x2="1144" y2="278.5" stroke="#E6E4E0"/>
-  <text x="56" y="310" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.2" fill="#8A8780">01 — ANALYTICS</text>
-  <text x="56" y="334" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#111113">Python · SQL · Pandas</text>
-  <text x="328" y="310" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.2" fill="#8A8780">02 — BUSINESS INTELLIGENCE</text>
-  <text x="328" y="334" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#111113">Power BI · DAX · Excel</text>
-  <text x="600" y="310" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.2" fill="#8A8780">03 — COMPUTER VISION</text>
-  <text x="600" y="334" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#111113">YOLOv8 · OpenCV</text>
-  <text x="872" y="310" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.2" fill="#8A8780">04 — APPLICATIONS</text>
-  <text x="872" y="334" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#111113">Django · Angular · REST</text>
+  <text x="56" y="310" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.2" fill="#8A8780">01 — ANALYTICS</text><text x="56" y="334" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#111113">Python · SQL · Pandas</text><text x="328" y="310" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.2" fill="#8A8780">02 — BUSINESS INTELLIGENCE</text><text x="328" y="334" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#111113">Power BI · DAX · Excel</text><text x="600" y="310" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.2" fill="#8A8780">03 — COMPUTER VISION</text><text x="600" y="334" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#111113">YOLOv8 · OpenCV</text><text x="872" y="310" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.2" fill="#8A8780">04 — APPLICATIONS</text><text x="872" y="334" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#111113">Django · Angular · REST</text>
 </svg>

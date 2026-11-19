@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" role="img" aria-labelledby="t d">
+  <title id="t">Personal Wealth Monitoring System</title>
+  <desc id="d">Wealth tracker for equities, ETFs, bonds, funds and SIPs, with XIRR / CAGR reporting and role-based family access. Stack: Django · DRF · Angular · TypeScript.</desc>
+  <rect x="0.5" y="0.5" width="599" height="339" rx="14" fill="#FBFBFA" stroke="#E6E4E0"/>
+  <text x="36" y="50" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.2" fill="#D97706">02<tspan fill="#8A8780" dx="10">FULL-STACK FINANCE</tspan></text>
+  <g transform="translate(330 36)"><line x1="0" y1="22" x2="234" y2="22" stroke="#E6E4E0" stroke-dasharray="2 4"/><line x1="0" y1="64" x2="234" y2="64" stroke="#E6E4E0" stroke-dasharray="2 4"/><line x1="0" y1="106" x2="234" y2="106" stroke="#E6E4E0" stroke-dasharray="2 4"/><polygon points="0,126 0,104 26,96 52,100 78,80 104,84 130,62 156,66 182,44 208,40 234,22 234,126" fill="#D97706" fill-opacity=".12"/><polyline points="0,104 26,96 52,100 78,80 104,84 130,62 156,66 182,44 208,40 234,22" fill="none" stroke="#D97706" stroke-width="2" stroke-linejoin="round"/><circle cx="234" cy="22" r="4" fill="#D97706"/><text x="0" y="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8A8780">XIRR · CAGR</text></g>
+  <text x="34" y="204" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="-0.8" fill="#111113">Personal Wealth Monitoring System</text>
+  <text x="36" y="240" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#4A4A52">Wealth tracker for equities, ETFs, bonds, funds and SIPs,</text><text x="36" y="264" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#4A4A52">with XIRR / CAGR reporting and role-based family access.</text>
+  <line x1="36" y1="290.5" x2="564" y2="290.5" stroke="#E6E4E0"/>
+  <text x="36" y="318" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#8A8780">Django · DRF · Angular · TypeScript</text>
+  <text x="564" y="316" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#4A4A52">View repo ↗</text>
+</svg>

@@ -22,14 +22,23 @@ I work where operational data meets the factory floor. Most days that means Pyth
 
 ## Selected work
 
-| | Project | What it does | Stack |
-|:--|:--|:--|:--|
-| `01` | **[InsightForge AI](https://github.com/avviiiral/InsightForge_AI)** | AI data analyst agent. Profiles CSV, Excel, JSON, Parquet or database sources; runs quality checks, correlation and anomaly analysis, forecasting and natural-language queries; exports reports. | Python · LLM agents |
-| `02` | **[Personal Wealth Monitoring System](https://github.com/avviiiral/Personal_Wealth_Monitoring_System)** | Family wealth tracker for Indian equities, ETFs, bonds, mutual funds and SIPs. Transaction-driven valuation, XIRR / CAGR reporting, NAV updates and role-based access. | Django · DRF · Angular |
-| `03` | **[VisionCount Multi-Model](https://github.com/avviiiral/visioncount-multi-model)** | Multi-camera counting system with a dedicated YOLOv8 model per RTSP stream, live dashboard views and CSV count logging. | YOLOv8 · OpenCV · Streamlit |
-| `04` | **[TCS Stock Market Analysis](https://github.com/avviiiral/TCS-Stock-Market-Analysis-PowerBI)** | Interactive Power BI dashboard covering performance comparison, trends, volume and date-filtered DAX measures. | Power BI · DAX |
-| `05` | **[ML Stock Forecasting](https://github.com/avviiiral/Machine-Learning-Stock-Forecasting)** | Time-series pipeline that prepares historical prices, trains a forecasting model and evaluates it with RMSE. | TensorFlow · Keras · Pandas |
-| `06` | **[Gemini Chatbot](https://github.com/avviiiral/Gemini-Chatbot)** | Browser-based conversational demo on Google's Gemini API with session-based history. | Streamlit · Gemini API |
+<p>
+<a href="https://github.com/avviiiral/InsightForge_AI"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-insightforge-dark.svg"><img src="./assets/card-insightforge-light.svg" width="49%" alt="InsightForge AI — agent-based data analyst for profiling, quality checks, anomaly detection, forecasting and natural-language queries. Python, LLM agents."></picture></a>
+&nbsp;
+<a href="https://github.com/avviiiral/Personal_Wealth_Monitoring_System"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-wealth-dark.svg"><img src="./assets/card-wealth-light.svg" width="49%" alt="Personal Wealth Monitoring System — family wealth tracker with XIRR and CAGR reporting. Django, DRF, Angular."></picture></a>
+</p>
+
+<p>
+<a href="https://github.com/avviiiral/visioncount-multi-model"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-visioncount-dark.svg"><img src="./assets/card-visioncount-light.svg" width="49%" alt="VisionCount Multi-Model — multi-camera YOLOv8 counting over RTSP streams. OpenCV, Streamlit."></picture></a>
+&nbsp;
+<a href="https://github.com/avviiiral/TCS-Stock-Market-Analysis-PowerBI"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-tcs-powerbi-dark.svg"><img src="./assets/card-tcs-powerbi-light.svg" width="49%" alt="TCS Stock Market Analysis — interactive Power BI dashboard with DAX measures."></picture></a>
+</p>
+
+<p>
+<a href="https://github.com/avviiiral/Machine-Learning-Stock-Forecasting"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-forecasting-dark.svg"><img src="./assets/card-forecasting-light.svg" width="49%" alt="ML Stock Forecasting — time-series model evaluated with RMSE. TensorFlow, Keras."></picture></a>
+&nbsp;
+<a href="https://github.com/avviiiral/Gemini-Chatbot"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-gemini-dark.svg"><img src="./assets/card-gemini-light.svg" width="49%" alt="Gemini Chatbot — Streamlit conversational demo on Google's Gemini API."></picture></a>
+</p>
 
 <details>
 <summary><b>More machine learning</b></summary>

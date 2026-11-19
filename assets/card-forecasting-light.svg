@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" role="img" aria-labelledby="t d">
+  <title id="t">ML Stock Forecasting</title>
+  <desc id="d">Prepares historical prices, trains a forecasting model and evaluates its predictions with RMSE. Stack: TensorFlow · Keras · Pandas.</desc>
+  <rect x="0.5" y="0.5" width="599" height="339" rx="14" fill="#FBFBFA" stroke="#E6E4E0"/>
+  <text x="36" y="50" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.2" fill="#D97706">05<tspan fill="#8A8780" dx="10">TIME SERIES</tspan></text>
+  <g transform="translate(330 36)"><line x1="0" y1="30" x2="234" y2="30" stroke="#E6E4E0" stroke-dasharray="2 4"/><line x1="0" y1="70" x2="234" y2="70" stroke="#E6E4E0" stroke-dasharray="2 4"/><line x1="0" y1="110" x2="234" y2="110" stroke="#E6E4E0" stroke-dasharray="2 4"/><polygon points="140,54 171,34 202,20 234,4 234,56 202,60 171,58 140,54" fill="#D97706" fill-opacity=".14"/><polyline points="0,92 20,84 40,90 60,72 80,78 100,62 120,66 140,54" fill="none" stroke="#4A4A52" stroke-width="2" stroke-linejoin="round"/><polyline points="140,54 171,46 202,40 234,30" fill="none" stroke="#D97706" stroke-width="2" stroke-dasharray="5 4"/><line x1="140" y1="0" x2="140" y2="126" stroke="#C9C6C0"/><text x="146" y="122" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#8A8780">forecast</text><text x="134" y="122" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#8A8780">actual</text></g>
+  <text x="34" y="204" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="-0.8" fill="#111113">ML Stock Forecasting</text>
+  <text x="36" y="240" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#4A4A52">Prepares historical prices, trains a forecasting model</text><text x="36" y="264" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#4A4A52">and evaluates its predictions with RMSE.</text>
+  <line x1="36" y1="290.5" x2="564" y2="290.5" stroke="#E6E4E0"/>
+  <text x="36" y="318" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#8A8780">TensorFlow · Keras · Pandas</text>
+  <text x="564" y="316" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#4A4A52">View repo ↗</text>
+</svg>

@@ -9,6 +9,8 @@
 I'm **Aviral Goyal**, a data analyst and AI/ML engineer who works where operational data meets the factory floor. Most days that means Python and SQL pipelines that replace manual reporting, Power BI dashboards built for decisions rather than decoration, and computer-vision systems that count, monitor and flag what happens on a production line.
 
 > **Open to work:** full-time **Data Analyst · Power BI Developer · AI/ML Engineer** roles (on-site, hybrid or remote), plus **freelance and contract projects** in dashboards, reporting automation, computer vision and internal tools. [Get in touch ↓](#get-in-touch)
+>
+> Based in **Indore, India** · available **remote and worldwide** · usually replies within a day.
 
 <p>
 <a href="https://aviral-goyal.netlify.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/link-portfolio-dark.svg"><img src="./assets/link-portfolio-light.svg" height="52" alt="Aviral Goyal portfolio and case studies — aviral-goyal.netlify.app"></picture></a>

@@ -1,9 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="t d">
-  <title id="t">Aviral Goyal — Data Analyst, AI/ML Engineer and Power BI Developer</title>
+  <title id="t">Aviral Goyal — Data Analyst, AI/ML Engineer and Power BI Developer — open to full-time roles and freelance projects</title>
   <desc id="d">Profile header for Aviral Goyal. Focus areas: analytics with Python and SQL, business intelligence with Power BI, computer vision with YOLOv8, and applications with Django and Angular. A small production chart highlights a downtime dip inside a detection box.</desc>
   <rect x="0.5" y="0.5" width="1199" height="369" rx="14" fill="#FBFBFA" stroke="#E6E4E0"/>
   <text x="56" y="66" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.5" fill="#8A8780">AVIRAL GOYAL / PROFILE</text>
-  <text x="1144" y="66" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="0.5" fill="#8A8780">github.com/avviiiral</text>
+  <circle cx="876" cy="62" r="4" fill="#16A34A"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/></circle>
+  <text x="1144" y="66" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.5" fill="#4A4A52">OPEN TO FULL-TIME &amp; FREELANCE</text>
   <text x="53" y="172" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="74" font-weight="600" letter-spacing="-2.8" fill="#111113">Aviral Goyal</text>
   <text x="56" y="216" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" letter-spacing="-0.2" fill="#4A4A52">Data Analyst <tspan fill="#8A8780">/</tspan> AI/ML Engineer <tspan fill="#8A8780">/</tspan> Power BI Developer</text>
   <line x1="800" y1="170" x2="1144" y2="170" stroke="#8A8780" stroke-opacity=".5" stroke-dasharray="2 4"/>

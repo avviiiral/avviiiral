@@ -1,75 +1,167 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img src="./assets/header-light.svg" width="100%" alt="Aviral Goyal — Data Analyst, AI/ML Engineer and Power BI Developer. Focus areas: Python and SQL analytics, Power BI, YOLOv8 computer vision, Django and Angular applications.">
-</picture>
+<!-- ============================================================ -->
+<!--  GitHub Profile README · Aviral Goyal (@avviiiral)            -->
+<!--  Paste into the repo named exactly: avviiiral/avviiiral      -->
+<!-- ============================================================ -->
 
-<br>
+<div align="center">
 
-I work where operational data meets the factory floor. Most days that means Python and SQL pipelines that replace manual reporting, Power BI dashboards built for decisions rather than decoration, and computer-vision systems that count, monitor and flag what happens on a production line.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=120&section=header&text=Aviral%20Goyal&fontSize=46&fontColor=ffffff&fontAlignY=55" alt="Aviral Goyal" width="100%" />
 
-[Portfolio](https://aviral-goyal.netlify.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/avviiiral/) &nbsp;·&nbsp; [Case studies](#writing)
+<a href="https://aviral-goyal.netlify.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Full-Stack+%26+Computer+Vision+Engineer;Django+%C2%B7+Angular+%C2%B7+OpenCV+%C2%B7+YOLOv8+%C2%B7+PyTorch;Industrial+automation+%E2%86%94+vision+%E2%86%94+analytics;Open+to+full-time+roles+%26+freelance+projects" alt="Typing SVG" />
+</a>
 
-<br>
+<p>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Full--Time%20%26%20Freelance-2ea043?style=flat-square" alt="Open to full-time and freelance" />
+  <img src="https://img.shields.io/badge/Based%20in-India%20%C2%B7%20Remote--friendly-30363d?style=flat-square" alt="Based in India, remote-friendly" />
+</p>
 
-## Now
+<p>
+  <a href="https://aviral-goyal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-aviral--goyal.netlify.app-1f6feb?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://aviral-goyal.netlify.app/Aviral_Goyal_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-30363d?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume" /></a>
+  <a href="https://www.linkedin.com/in/avviiiral/"><img src="https://img.shields.io/badge/LinkedIn-avviiiral-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aviralgoyal739@gmail.com"><img src="https://img.shields.io/badge/Email-aviralgoyal739%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-- **Manufacturing analytics.** Production KPI reporting, downtime analysis and reporting automation.
-- **Industrial computer vision.** Contributing to a 10-camera YOLOv8 production-monitoring initiative.
-- **InsightForge AI.** An agent-based data analyst that profiles, charts and reports on any dataset.
-
-<br>
-
-## Selected work
-
-| | Project | What it does | Stack |
-|:--|:--|:--|:--|
-| `01` | **[InsightForge AI](https://github.com/avviiiral/InsightForge_AI)** | AI data analyst agent. Profiles CSV, Excel, JSON, Parquet or database sources; runs quality checks, correlation and anomaly analysis, forecasting and natural-language queries; exports reports. | Python · LLM agents |
-| `02` | **[Personal Wealth Monitoring System](https://github.com/avviiiral/Personal_Wealth_Monitoring_System)** | Family wealth tracker for Indian equities, ETFs, bonds, mutual funds and SIPs. Transaction-driven valuation, XIRR / CAGR reporting, NAV updates and role-based access. | Django · DRF · Angular |
-| `03` | **[VisionCount Multi-Model](https://github.com/avviiiral/visioncount-multi-model)** | Multi-camera counting system with a dedicated YOLOv8 model per RTSP stream, live dashboard views and CSV count logging. | YOLOv8 · OpenCV · Streamlit |
-| `04` | **[TCS Stock Market Analysis](https://github.com/avviiiral/TCS-Stock-Market-Analysis-PowerBI)** | Interactive Power BI dashboard covering performance comparison, trends, volume and date-filtered DAX measures. | Power BI · DAX |
-| `05` | **[ML Stock Forecasting](https://github.com/avviiiral/Machine-Learning-Stock-Forecasting)** | Time-series pipeline that prepares historical prices, trains a forecasting model and evaluates it with RMSE. | TensorFlow · Keras · Pandas |
-| `06` | **[Gemini Chatbot](https://github.com/avviiiral/Gemini-Chatbot)** | Browser-based conversational demo on Google's Gemini API with session-based history. | Streamlit · Gemini API |
-
-<details>
-<summary><b>More machine learning</b></summary>
-<br>
-
-- [Plant Disease Prediction with CNN](https://github.com/avviiiral/Plant-Disease-Prediction-with-CNN) — image classification with a convolutional network in TensorFlow / Keras.
-- [MNIST Digit Classification](https://github.com/avviiiral/MNIST_Digit_Classification_with_Neural_Network) — handwritten digit recognition and evaluation.
-- [Breast Cancer Classification](https://github.com/avviiiral/Breast-Cancer-Classification-Neural-Network) — supervised neural-network classification workflow.
-- [Bank Note Authentication](https://github.com/avviiiral/Bank-Note-Authentication-using-Random-Forest) — classification with a random forest.
-
-</details>
-
-<br>
-
-## Writing
-
-Longer write-ups with architecture notes, on the [portfolio](https://aviral-goyal.netlify.app/).
-
-| Piece | Topic |
-|:--|:--|
-| [BGLIIN.AI](https://aviral-goyal.netlify.app/projects/bgliin-ai.html) | Industrial computer vision and production monitoring |
-| [Personal Wealth Monitoring System](https://aviral-goyal.netlify.app/projects/personal-wealth-monitoring.html) | Django and Angular case study |
-| [AI Data Analyst Agent](https://aviral-goyal.netlify.app/projects/ai-data-analyst-agent.html) | Python and Streamlit case study |
-| [Designing a multi-camera monitoring pipeline](https://aviral-goyal.netlify.app/articles/multi-camera-monitoring.html) | Article |
-| [Making portfolio calculations auditable](https://aviral-goyal.netlify.app/articles/auditable-portfolio-calculations.html) | Article |
-
-<br>
-
-## Toolkit
-
-| Area | Tools |
-|:--|:--|
-| **Data** | Python, SQL, Pandas, NumPy, Matplotlib, Excel |
-| **BI** | Power BI, DAX, data modelling, KPI reporting |
-| **ML & vision** | scikit-learn, TensorFlow, Keras, PyTorch, YOLOv8, OpenCV |
-| **Applications** | Django, Django REST Framework, Angular, TypeScript, REST APIs, Streamlit |
-| **Storage & tooling** | PostgreSQL, SQLite, Git, Docker |
-
-<br>
+</div>
 
 ---
 
-<sub>Open to conversations about data analytics, BI and applied computer vision in manufacturing — reach me on [LinkedIn](https://www.linkedin.com/in/avviiiral/).</sub>
+### `> whoami`
+
+I build **end-to-end systems**: from the camera stream and the PLC on the shop floor, through the Django/Angular application layer, to the analytics that turn raw signals into decisions.
+
+```yaml
+role:      Full-Stack & Computer Vision Engineer
+bridges:   [industrial automation, computer vision, data & financial analytics]
+builds:    Python · Django · Angular · OpenCV · YOLOv8 · PyTorch
+approach:  inspect the data → build the smallest useful version → verify → hand over
+open_to:   [Full-Stack / Python Dev, Django & REST API Dev, AI/ML & CV Dev, Data Analyst / Power BI Dev]
+```
+
+---
+
+### 🧰 Core Stack & Systems
+
+| Domain | Stack |
+|:--|:--|
+| **Backend & Web** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/Django%20REST-A30000?style=flat-square&logo=django&logoColor=white) ![ASGI / Uvicorn](https://img.shields.io/badge/ASGI%20%2F%20Uvicorn-499848?style=flat-square&logo=gunicorn&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Computer Vision & Edge / Industrial** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=ultralytics&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![RTSP / MJPEG](https://img.shields.io/badge/RTSP%20%2F%20MJPEG-30363D?style=flat-square&logo=ffmpeg&logoColor=white) ![PLC / HMI](https://img.shields.io/badge/PLC%20%2F%20HMI-30363D?style=flat-square) ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-00979D?style=flat-square&logo=arduino&logoColor=white) |
+| **AI / ML** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow / Keras](https://img.shields.io/badge/TensorFlow%20%2F%20Keras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Data & Analytics** | ![SQL](https://img.shields.io/badge/SQL-30363D?style=flat-square&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-30363D?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Automated Ingestion](https://img.shields.io/badge/Automated%20Ingestion-30363D?style=flat-square) ![XIRR / Portfolio Analytics](https://img.shields.io/badge/XIRR%20%2F%20Portfolio%20Analytics-30363D?style=flat-square) ![QR / Invoice Parsing](https://img.shields.io/badge/QR%20%2F%20Invoice%20Parsing-30363D?style=flat-square) |
+| **Delivery & Tooling** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+<details>
+<summary><b>How the pieces connect</b></summary>
+
+```text
+ ┌──────────────┐   RTSP / MJPEG   ┌─────────────────────┐   REST / WS   ┌──────────────┐
+ │ Cameras      │ ───────────────▶ │ OpenCV + YOLOv8     │ ────────────▶ │ Django (ASGI)│
+ │ PLC / HMI    │ ───  signals ──▶ │ PyTorch (CUDA)      │               │ + Angular UI │
+ │ MCUs         │                  └─────────────────────┘               └──────┬───────┘
+ └──────────────┘                                                               │
+                                                             Pandas · Power BI · reports · KPIs
+```
+
+</details>
+
+---
+
+### 🚀 Featured Work & Active Focus
+
+| Project | What it does | Stack | Links |
+|:--|:--|:--|:--|
+| 🎥 **BGLIIN.AI** | AI-powered **production monitoring** with live **multi-camera** vision analytics: RTSP capture, YOLOv8/OpenCV inference, Django services and an Angular monitoring UI. | `Django` `Angular` `YOLOv8` `OpenCV` `PyTorch` | [Case study](https://aviral-goyal.netlify.app/projects/bgliin-ai) |
+| 💹 **Personal Wealth Monitoring System (PWMS)** | Portfolio analytics platform for **Indian equities, mutual funds and bonds**: ISIN-based instrument mapping, SIPs, automated NAV ingestion and **XIRR** returns. | `Django` `Angular` `Pandas` | [Repo](https://github.com/avviiiral/Personal_Wealth_Monitoring_System) · [Case study](https://aviral-goyal.netlify.app/projects/personal-wealth-monitoring) |
+| 🤖 **AI Data Analyst Agent** | Streamlit app for **interactive dataset inspection** and reproducible Python calculations, with optional AI explanations that describe computed results instead of replacing them. *(Prototype)* | `Python` `Streamlit` `Pandas` | [Repo](https://github.com/avviiiral/AI-Data-Analyst-Agent_v1) · [Case study](https://aviral-goyal.netlify.app/projects/ai-data-analyst-agent) |
+| 🏭 **Industrial & Data Utilities** | Hardware-linked shop-floor workflows and Python automation tools, such as **QR / GST e-invoice** data-logging pipelines. | `Python` `PLC/HMI` `Pandas` | — |
+
+<sub>More on the portfolio → <a href="https://aviral-goyal.netlify.app/projects/">aviral-goyal.netlify.app/projects</a></sub>
+
+<details>
+<summary><b>Example · PWMS holding snapshot</b> <i>(synthetic data)</i></summary>
+
+| ISIN | Instrument | Type | Units | Invested (₹) | Current (₹) | XIRR |
+|:--|:--|:--|--:|--:|--:|--:|
+| `INF000X00001` | Sample Flexi Cap Fund – Direct | Mutual Fund | 125.400 | 25,000.00 | 27,310.00 | 9.8% |
+| `INE000A00002` | Example Industries Ltd | Equity | 40 | 48,000.00 | 51,200.00 | 6.4% |
+| `IN0000B00003` | Demo 7.10% Govt Bond 2034 | Bond | 10 | 10,000.00 | 10,240.00 | 7.1% |
+
+<sub>Illustrative rows only: no real holdings, prices or returns.</sub>
+
+</details>
+
+<details>
+<summary><b>Example · e-invoice QR log entry</b> <i>(synthetic data)</i></summary>
+
+```json
+{
+  "scanned_at": "2026-01-15T10:42:07+05:30",
+  "station": "GATE-01",
+  "invoice_no": "INV-DEMO-0001",
+  "seller_gstin": "00AAAAA0000A0Z0",
+  "doc_date": "2026-01-14",
+  "total_value": 11800.00,
+  "status": "logged"
+}
+```
+
+</details>
+
+---
+
+### 📝 Engineering Notes
+
+| Article | Topic |
+|:--|:--|
+| [Designing a multi-camera monitoring pipeline](https://aviral-goyal.netlify.app/articles/multi-camera-monitoring) | Separating RTSP capture, browser streaming and model inference; network limits, reliability and performance measurement. |
+| [Making portfolio calculations auditable](https://aviral-goyal.netlify.app/articles/auditable-portfolio-calculations) | Transaction provenance, explicit assumptions, price/NAV freshness, calculation conventions and reconciliation checks. |
+
+---
+
+### 🛠️ Work With Me
+
+| Service | Typical scope |
+|:--|:--|
+| **Websites & full-stack apps** | Business websites, Angular frontends on Python/Django APIs, database-backed features, integrations, fixes to existing apps |
+| **Analytics & Power BI dashboards** | Data cleaning with Python/SQL, Power BI reports with DAX measures, KPI and operational dashboards, calculation checks |
+| **Applied AI & workflow automation** | Python automation, ML prototypes, computer vision with YOLO/OpenCV, wiring model output into app workflows |
+
+```text
+Understand ──▶ Scope ──▶ Build & Review ──▶ Verify & Hand Over
+```
+
+<sub>Remote collaboration across India and internationally. Details → <a href="https://aviral-goyal.netlify.app/services/">services</a> · <a href="https://aviral-goyal.netlify.app/contact/">start a project</a></sub>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=avviiiral&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avviiiral&layout=compact&hide_border=true&langs_count=8&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=avviiiral&hide_border=true&theme=github-dark-blue&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak" />
+
+<!-- Note: the public github-readme-stats instance is shared and can rate-limit.
+     If the cards fail to load, self-host it on Vercel and swap the base URL. -->
+
+</div>
+
+---
+
+### 🤝 Connect
+
+<div align="center">
+
+<a href="https://aviral-goyal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+<a href="https://aviral-goyal.netlify.app/Aviral_Goyal_Resume.pdf"><img src="https://img.shields.io/badge/Resume-30363d?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
+<a href="https://www.linkedin.com/in/avviiiral/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:aviralgoyal739@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<sub>Open to full-time, remote and freelance work on computer vision in manufacturing, full-stack Django/Angular systems, and analytics pipelines.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:0d1117&height=6&section=footer" width="100%" alt="" />
